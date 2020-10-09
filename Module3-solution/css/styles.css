@@ -15,10 +15,9 @@ body {
   padding-top: 25px;
 }
 
-.navbar-brand h1 { /* Restaurant name */
+.navbar-brand h1 { 
   color: red;
   font-size: 1.5em;
-  text-transform: uppercase;
   font-weight: bold;
   text-shadow: 1px 1px 1px #222;
   margin-top: 0;
@@ -62,21 +61,6 @@ p{
   margin-right: auto;
   margin-left: auto;
   font-size: 16px;
-}
-
-/********** Large devices only **********/
-@media (min-width: 1200px) {
-
-}
-
-/********** Medium devices only **********/
-@media (min-width: 992px) and (max-width: 1199px) {
- 
-}
-
-/********** Small devices only **********/
-@media (min-width: 768px) and (max-width: 991px) {
-
 }
 
 /********** Extra small devices only **********/
